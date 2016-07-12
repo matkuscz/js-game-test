@@ -1,0 +1,20 @@
+.stavHrace {
+  min-height: 50px;
+  background-color: #DDDDDD;
+}
+
+.zivoty {
+  background-color: green;
+}
+
+.utok {
+  background-color: red;
+}
+
+.expy {
+  background-color: grey;
+}
+
+#textovyVystup {
+  background-color: #AAAAAA;
+}
